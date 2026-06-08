@@ -1,11 +1,20 @@
-         h1, h2, h3, h4, h5 {
+.card{
+     background: rgb(253, 240, 181);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    }
+    .card-verde{
+    background: #34db25;
+    }
+        h1, h2, h3, h4, h5 {
             font-family: 'Courier New', Courier, monospace;
             color: red;
             text-align: left;
             font-size: 40px;
             
         }
-        p {
+        p, ul {
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             font-size: 30px;
             color: rgb(0, 0, 0);

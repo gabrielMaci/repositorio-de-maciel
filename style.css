@@ -1,20 +1,20 @@
     section{
-    padding: 20rem;
-    margin: 25rem;
-    border-radius: 10px;
-    background: rgb(255, 248, 187);
-    box-sizing: border-box;
+        background-color: #f7f5b4;
+        padding: 20rem;
+        margin-top: 20rem;
+        border-radius: 8rem;
     }
-    header{
-    background: #34db25;
-    box-sizing: border-box;
-    border-radius: 20rem;
-    }
+    header {
+        background-color: rgb(0, 180, 0);
+        border-radius: 8rem;
+        padding: 20rem
+        
+        }
         h1, h2, h3, h4, h5 {
             font-family: 'Courier New', Courier, monospace;
             color: red;
             text-align: left;
-            font-size: 40rem;
+            font-size: 40rem; 
             
         }
         p, ul {

@@ -1,25 +1,25 @@
 .card{
-    padding: 2rem;
-    margin: 2rem;
-    border-radius: 2rem;
+    padding: 20px;
+    margin: 25px 0;
+    border-radius: 10px;
     background: rgb(255, 248, 187);
     box-sizing: border-box;
     }
     .card-verde{
     background: #34db25;
     box-sizing: border-box;
-    border-radius: 20rem;
+    border-radius: 20px;
     }
         h1, h2, h3, h4, h5 {
             font-family: 'Courier New', Courier, monospace;
             color: red;
             text-align: left;
-            font-size: 3rem;
+            font-size: 40px;
             
         }
         p, ul {
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            font-size: 2rem;
+            font-size: 30px;
             color: rgb(0, 0, 0);
             
             }

@@ -1,7 +1,7 @@
 .card{
-    padding: 20rem;
-    margin: 25rem;
-    border-radius: 10rem;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 2rem;
     background: rgb(255, 248, 187);
     box-sizing: border-box;
     }
@@ -14,12 +14,12 @@
             font-family: 'Courier New', Courier, monospace;
             color: red;
             text-align: left;
-            font-size: 40rem;
+            font-size: 3rem;
             
         }
         p, ul {
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            font-size: 30rem;
+            font-size: 2rem;
             color: rgb(0, 0, 0);
             
             }

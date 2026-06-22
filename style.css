@@ -5,10 +5,9 @@
         border-radius: 0.5rem;
     }
     header {
-        background-color: oklab(64.521% -0.17336 0.13181);
-        padding: 1.5rem;
-        margin-top: 1.25rem;
-        border-radius: 0.5rem;
+         background-color: green;
+        color: white;
+        padding: 1rem;
         
         }
         h1, h2, h3, h4, h5 {
